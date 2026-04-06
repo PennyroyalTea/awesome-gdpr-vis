@@ -1,8 +1,10 @@
-# awesome-gdpr-vis
+# Awesome GDPR vis skills
 
 A collection of Claude skills for visualising your personal data from GDPR/SAR exports.
 
 Each app has a `skill.md` -- a prompt-based guide that tells Claude how to build interactive dashboards from your data. No build tools needed, everything runs as plain HTML with CDN dependencies.
+
+![Example: Lime ride map](lime/screenshots/animated.gif)
 
 ## Apps
 
@@ -19,7 +21,7 @@ Each app has a `skill.md` -- a prompt-based guide that tells Claude how to build
 
 ## Contributing
 
-To add a new app, create a directory with:
+To add a new app, open a PR with a directory containing:
 - `skill.md` -- detailed instructions for Claude on how to process and visualise the data
 - `README.md` -- what the app is, what you get, how to request your data
 - `screenshots/` -- example output
