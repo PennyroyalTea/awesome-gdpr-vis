@@ -19,9 +19,8 @@ Each app has a `skill.md` -- a prompt-based guide that tells Claude how to build
 ## How it works
 
 1. Request your data from the app (GDPR Subject Access Request)
-2. Pick the matching skill from this repo
-3. Start a Claude session, share the `skill.md` and your data files
-4. Ask Claude to build the dashboards
+2. Start coding agent session in the folder with your data
+3. Use the skill provided to help the agent build visualisations of your data
 
 ## Contributing
 
