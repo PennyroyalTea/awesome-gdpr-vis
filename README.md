@@ -4,7 +4,11 @@ A collection of Claude skills for visualising your personal data from GDPR/SAR e
 
 Each app has a `skill.md` -- a prompt-based guide that tells Claude how to build interactive dashboards from your data. No build tools needed, everything runs as plain HTML with CDN dependencies.
 
-![Example: Lime ride map](lime/screenshots/animated.gif)
+<p align="center">
+  <img src="lime/screenshots/animated.gif" alt="Example: Lime rides data vis" />
+  <br>
+  <sub>Example: Lime rides data vis</sub>
+</p>
 
 ## Apps
 
